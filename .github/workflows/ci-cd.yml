@@ -1,5 +1,3 @@
-ci-cd.yml
-
 name: CI/CD Pipeline - Telco Churn API
 
 on:
